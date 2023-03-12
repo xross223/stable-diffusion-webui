@@ -1,0 +1,1 @@
+python launch.py --skip-torch-cuda-test --precision full --no-half --no-half-vae --opt-sub-quad-attention --disable-safe-unpickl
